@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luiz Sérgio, but can tell me Cruz
+- 👋 Hi, I’m Luiz Sérgio, but call me Cruz
 - 👀 I’m interested in Js
 - 🌱 I’m currently learning Javascript, React, React Native, Node js, NoSql Database and much more
 - 📫 How to reach me 
