@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @lgdacruz
+- 👋 Hi, I’m Luiz Sérgio, but can tell me Cruz
 - 👀 I’m interested in Js
 - 🌱 I’m currently learning Javascript, React, React Native, Node js, NoSql Database and much more
 - 📫 How to reach me 
-- Email: lsgdc06@gmail.com
+- 📧 E-mail: lsgdc06@gmail.com
+
+- A little about myself and my job 👉 https://main.d1ijlz4ez9jl0g.amplifyapp.com/
+
 
 <!---
 lgdacruz/lgdacruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
