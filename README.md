@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luiz Sérgio, but call me Cruz
 - 👀 I’m interested in Js
-- 🌱 I’m currently learning Javascript, React, React Native, Node js, NoSql Database and much more
+- 🌱 I’m currently Javascript developer, React, React Native, Node js, NoSql Database and much more
 - 📫 How to reach me 
 - 📧 E-mail: lsgdc06@gmail.com
 
