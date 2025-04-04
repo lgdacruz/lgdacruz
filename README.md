@@ -19,6 +19,7 @@ Olá! Sou um desenvolvedor Full Stack JavaScript apaixonado por tecnologia e ino
 
 <h2>🔗 Vamos nos conectar?</h2>
 <ul type="Circle">
+  <li>🔗<a href="https://main.d2fjilx0koorth.amplifyapp.com/" target="_blank">Site</a></li>
   <li>💼<a href="https://www.linkedin.com/in/cruxzx/" target="_blank">Linkedin</a></li>
   <li>▶️<a href="https://www.youtube.com/@devtocruz6698" target="_blank">YouTube</a></li>
   <li>💻<a href="https://github.com/lgdacruz/lgdacruz/" target="_blank">GitHub</a></li>
